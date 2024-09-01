@@ -43,7 +43,7 @@
     Language Statistics
   </summary></br>
   
-  <img src="https://wakatime.com/share/@rekran/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="400" style="border-radius: 10px"/>
+ <figure><embed src="https://wakatime.com/share/@rekran/8682c847-f02f-424a-b7ca-bd16986a512a.svg"></embed></figure>
   
   </details>
   
@@ -51,5 +51,5 @@
   <summary>
     Coding Activity
   </summary>
-  <img src="https://wakatime.com/share/@rekran/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="400"  style="border-radius: 10px"/>
+ <figure><embed src="https://wakatime.com/share/@rekran/a3adf94a-2d70-4ddd-bc8c-f572b2520526.svg"></embed></figure>
   </details>
