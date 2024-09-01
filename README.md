@@ -4,10 +4,6 @@
 - 📫 How to reach me: arthur.ricardo17@gmail.com
 - ⚡ Fun fact: I've a cute cat. His name is Tião.
 
-<img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Bachelor's degree in Data Science and Artificial Intelligence by UFPB
-
-<img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Currently doing a Master's degree in Artificial Intelligence by UFPB
-
 **Languages and Tools:**
 <br><br/>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
