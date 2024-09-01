@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning about LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: arthur.ricardo17@gmail.com
-- ⚡ Fun fact: I've a cute cat. His name is Tião.
+- ⚡ Fun fact: I've a cute cat. His name is Tião. 🐈‍⬛
 
 **Languages and Tools:**
 <br><br/>
